@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lingkan/Desktop/New Folder/New Folder.csproj": {}
+    "/home/lingkan/Desktop/Gym Management System/New Folder.csproj": {}
   },
   "projects": {
-    "/home/lingkan/Desktop/New Folder/New Folder.csproj": {
+    "/home/lingkan/Desktop/Gym Management System/New Folder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lingkan/Desktop/New Folder/New Folder.csproj",
+        "projectUniqueName": "/home/lingkan/Desktop/Gym Management System/New Folder.csproj",
         "projectName": "New Folder",
-        "projectPath": "/home/lingkan/Desktop/New Folder/New Folder.csproj",
+        "projectPath": "/home/lingkan/Desktop/Gym Management System/New Folder.csproj",
         "packagesPath": "/home/lingkan/.nuget/packages/",
-        "outputPath": "/home/lingkan/Desktop/New Folder/obj/",
+        "outputPath": "/home/lingkan/Desktop/Gym Management System/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lingkan/.nuget/NuGet/NuGet.Config"

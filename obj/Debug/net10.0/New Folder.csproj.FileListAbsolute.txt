@@ -12,3 +12,18 @@
 /home/lingkan/Desktop/New Folder/obj/Debug/net10.0/New Folder.pdb
 /home/lingkan/Desktop/New Folder/obj/Debug/net10.0/New Folder.genruntimeconfig.cache
 /home/lingkan/Desktop/New Folder/obj/Debug/net10.0/ref/New Folder.dll
+/home/lingkan/Desktop/Gym Management System/bin/Debug/net10.0/New Folder
+/home/lingkan/Desktop/Gym Management System/bin/Debug/net10.0/New Folder.deps.json
+/home/lingkan/Desktop/Gym Management System/bin/Debug/net10.0/New Folder.runtimeconfig.json
+/home/lingkan/Desktop/Gym Management System/bin/Debug/net10.0/New Folder.dll
+/home/lingkan/Desktop/Gym Management System/bin/Debug/net10.0/New Folder.pdb
+/home/lingkan/Desktop/Gym Management System/obj/Debug/net10.0/New Folder.GeneratedMSBuildEditorConfig.editorconfig
+/home/lingkan/Desktop/Gym Management System/obj/Debug/net10.0/New Folder.AssemblyInfoInputs.cache
+/home/lingkan/Desktop/Gym Management System/obj/Debug/net10.0/New Folder.AssemblyInfo.cs
+/home/lingkan/Desktop/Gym Management System/obj/Debug/net10.0/New Folder.csproj.CoreCompileInputs.cache
+/home/lingkan/Desktop/Gym Management System/obj/Debug/net10.0/New Folder.sourcelink.json
+/home/lingkan/Desktop/Gym Management System/obj/Debug/net10.0/New Folder.dll
+/home/lingkan/Desktop/Gym Management System/obj/Debug/net10.0/refint/New Folder.dll
+/home/lingkan/Desktop/Gym Management System/obj/Debug/net10.0/New Folder.pdb
+/home/lingkan/Desktop/Gym Management System/obj/Debug/net10.0/New Folder.genruntimeconfig.cache
+/home/lingkan/Desktop/Gym Management System/obj/Debug/net10.0/ref/New Folder.dll

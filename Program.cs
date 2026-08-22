@@ -222,26 +222,24 @@ public static class Program
         gym.AddMembershipPackage(premium);
 
         WorkoutPlan weightLoss = new("Fat Shredder", "Weight Loss");
-        weightLoss.AddExercise("Treadmill Running");                         // Overload 1
-        weightLoss.AddExercise("Burpees", 4, 15);                             // Overload 2
+        weightLoss.AddExercise("Treadmill Running");                        
+        weightLoss.AddExercise("Burpees", 4, 15);                            
         weightLoss.UpdatePlan("High-Intensity Interval Weight Loss");
         gym.AddWorkoutPlan(weightLoss);
 
         WorkoutPlan weightGain = new("Mass Builder", "Weight Gain");
-        weightGain.AddExercise("Barbell Squats");                           // Overload 1
-        weightGain.AddExercise("Bench Press", 4, 8);                        // Overload 2
+        weightGain.AddExercise("Barbell Squats");                          
         weightGain.UpdatePlan("Hypertrophy Muscle Builder");
         gym.AddWorkoutPlan(weightGain);
 
         Trainer trainer1 = new("T1", "Lingkan", 21);
-        Trainer trainer2 = new("T2", "Sabit", 21);                  // Constructor Overload
-        gym.Trainers.Add(trainer1);
+        Trainer trainer2 = new("T2", "Sabit", 21);               
         gym.Trainers.Add(trainer2);
 
         Member member1 = new("M1", "Koushik", 20);
         Member member2 = new("M2", "Israt", 35);
-        Member member3 = new("M3", "Simila", 20); // Unregistered member for testing
-        Member member4 = new("M4", "Dinal Trump", 41);  // Unregistered member for testing
+        Member member3 = new("M3", "Simila", 20); 
+        Member member4 = new("M4", "Dinal Trump", 41); 
         gym.RegisterMember(member1);
         gym.RegisterMember(member2);
         gym.RegisterMember(member3);
@@ -265,7 +263,7 @@ public static class Program
         member1.RecordAttendance(DateTime.Today.AddDays(-1));
         member2.RecordAttendance();
 
-        decimal member1Fee = member1.CurrentMembership!.CalculateFee(20m); // Overload with discount
+        decimal member1Fee = member1.CurrentMembership!.CalculateFee(20m); 
         Console.WriteLine(Membership.GenerateReceipt(member1.Name, member1.CurrentMembership.Name, member1Fee));
 
         gym.DisplayMembershipStatuses();
